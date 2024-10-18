@@ -1,0 +1,17 @@
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\bin\Debug\net7.0\Application.dll
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\bin\Debug\net7.0\Application.pdb
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\Persiste.61C28332.Up2Date
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Infrastructure\Persistence\obj\Debug\net7.0\ref\Persistence.dll

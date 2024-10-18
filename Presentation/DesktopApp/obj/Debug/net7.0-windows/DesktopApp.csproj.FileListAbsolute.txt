@@ -1,0 +1,7 @@
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Presentation\DesktopApp\obj\Debug\net7.0-windows\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Presentation\DesktopApp\obj\Debug\net7.0-windows\DesktopApp.Form1.resources
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Presentation\DesktopApp\obj\Debug\net7.0-windows\DesktopApp.csproj.GenerateResource.cache
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Presentation\DesktopApp\obj\Debug\net7.0-windows\DesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Presentation\DesktopApp\obj\Debug\net7.0-windows\DesktopApp.AssemblyInfoInputs.cache
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Presentation\DesktopApp\obj\Debug\net7.0-windows\DesktopApp.AssemblyInfo.cs
+C:\Users\Ede Rojin DELİBAŞ\.vscode\ViStuCod\ProjectDevices\DEVİCES\Presentation\DesktopApp\obj\Debug\net7.0-windows\DesktopApp.csproj.CoreCompileInputs.cache
